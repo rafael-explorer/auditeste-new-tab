@@ -7,11 +7,11 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Auditeste - Rafael dos Santos</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="https://auditeste.com.br/wp-content/uploads/2022/09/favicon.png" />
       </Head>
 
       <main>
-        <Header title="Olá, Rafael!" />
+        <Header title="Olá, Rafael! Tudo bem?" />
         <p className="description">
           Pronto pra mais um dia de trabalho?
         </p>
