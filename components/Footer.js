@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <>
       <footer className={styles.footer}>
-        <img src="/logo-netlify.svg" alt="Netlify Logo" className={styles.logo} />
+        <img src="https://cdn-hflhp.nitrocdn.com/dcsqUqNDJJLlPZlIkeNcWCxKwwlPdWTW/assets/images/optimized/rev-3701a90/auditeste.com.br/wp-content/uploads/2022/09/logotipo2.png" alt="Auditeste Logo" className={styles.logo} />
       </footer>
     </>
   )
